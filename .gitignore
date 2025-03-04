@@ -6,3 +6,6 @@
 [Ll]ogs/
 UserSettings/
 Packages/com.unity.collab-proxy/
+.vscode/
+*.csproj
+*.sln
